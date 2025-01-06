@@ -1,0 +1,1 @@
+This repository demonstrates a common error in recursive functions: the RecursionError. The factorial function, when called with a negative number, recursively calls itself indefinitely, eventually leading to a stack overflow. The solution provides a robust implementation that handles negative input gracefully.
